@@ -4,6 +4,15 @@ This is my very first version about me here on GitHub!
 
 I'm known as a curious guy! With a wiki, documentation or a guide I can quickly understand a new technology.
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianantunes&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=willianantunes&theme=default" /></td>
+  </tr>   
+</table>
+</center>
+
 ## :mag_right: Where you can find me
 
 [![BlogSpot Badge](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://willianantunes.blogspot.com/)
@@ -37,4 +46,5 @@ Here are some ideas to get you started:
 
 https://gist.github.com/rxaviers/7360908
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/murilothink/github-readme-stats
 -->
