@@ -4,15 +4,6 @@ This is my very first version about me here on GitHub!
 
 I'm known as a curious guy! With a wiki, documentation or a guide I can quickly understand a new technology.
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianantunes&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=willianantunes&theme=default" /></td>
-  </tr>   
-</table>
-</center>
-
 ## :mag_right: Where you can find me
 
 [![BlogSpot Badge](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://willianantunes.blogspot.com/)
@@ -32,6 +23,19 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 - :no_mouth: I have [Osgood-Schlatter disease](https://en.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease)
 - :scream: I had Prognathism. Know how it was solved [here](https://willianantunes.blogspot.com/2012/02/cirurgia-ortognatica-pos-operatorio.html)
 
+## :books: Tools I use to work:
+
+- [JetBrains All Products Pack](https://www.jetbrains.com/all/)
+- [Excalidraw](https://excalidraw.com/)
+- [StackEdit](https://stackedit.io/)
+- [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
+- [SqlDBM](https://app.sqldbm.com/)
+
+<p>
+    <img width="415px" alt="Antunes's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianantunes&hide=html&layout=compact" />
+    <img width="495px" alt="Antunes's github stats" src="https://github-readme-stats.vercel.app/api?username=willianantunes&theme=default" />
+</p>
+
 <!--
 Here are some ideas to get you started:
 
@@ -47,4 +51,5 @@ Here are some ideas to get you started:
 https://gist.github.com/rxaviers/7360908
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/murilothink/github-readme-stats
+https://github.com/itecompro/markdown-emoji-cheatsheet
 -->
