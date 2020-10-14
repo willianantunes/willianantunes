@@ -11,7 +11,7 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@willianantunes)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willian.lima.antunes/)
 
-## ⚡ Fun facts:
+## ⚡ Fun facts
 
 - :stuck_out_tongue_winking_eye: I had lots of hair when I was a teenager
 - :guitar: I played drum during a music festival in high school
@@ -23,7 +23,7 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 - :no_mouth: I have [Osgood-Schlatter disease](https://en.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease)
 - :scream: I had Prognathism. Know how it was solved [here](https://willianantunes.blogspot.com/2012/02/cirurgia-ortognatica-pos-operatorio.html)
 
-## :books: Tools I use to work:
+## :books: Tools I use to work
 
 - [JetBrains All Products Pack](https://www.jetbrains.com/all/)
 - [Excalidraw](https://excalidraw.com/)
@@ -32,7 +32,7 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 - [SqlDBM](https://app.sqldbm.com/)
 - [Postman](https://www.postman.com/)
 
-## :notebook_with_decorative_cover: Now to learn English:
+## :notebook_with_decorative_cover: Now to learn English
 
 - [Cambly](https://www.cambly.com/)
 - [Cambridge Bookshelf](https://bookshelf.cambridge.org/)
