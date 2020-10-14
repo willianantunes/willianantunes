@@ -32,6 +32,12 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 - [SqlDBM](https://app.sqldbm.com/)
 - [Postman](https://www.postman.com/)
 
+## :notebook_with_decorative_cover: Now to learn English:
+
+- [Cambly](https://www.cambly.com/)
+- [Cambridge Bookshelf](https://bookshelf.cambridge.org/)
+- [Grammarly](https://www.grammarly.com/)
+
 <p>
     <img width="380px" alt="Antunes's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianantunes&hide=html&layout=compact&hide_border=true" />
     <img width="455px" alt="Antunes's github stats" src="https://github-readme-stats.vercel.app/api?username=willianantunes&theme=default&hide_border=true" />
