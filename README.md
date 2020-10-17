@@ -40,7 +40,7 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
   - Books I bought (not all of them are in the Cambridge Bookshelf):
     - [Essential Grammar in Use (ISBN-13: 978-1107480537)](https://www.amazon.com/Essential-Grammar-Answers-Interactive-eBook/dp/1107480531)
     - [English Grammar in Use (ISBN-13: 978-1107539334)](https://www.amazon.com/English-Grammar-Answers-Interactive-eBook/dp/1107539331)
-    - [Advanced Grammar in Use](https://www.amazon.com/Advanced-Interactive-Self-Study-Reference-Practice/dp/1107539307)
+    - [Advanced Grammar in Use (ISBN-13: 978-1107539303)](https://www.amazon.com/Advanced-Interactive-Self-Study-Reference-Practice/dp/1107539307)
     - [The Official Cambridge Guide to IELTS (ISBN-13: 978-1107620698)](https://www.amazon.com/Official-Cambridge-Students-Answers-DVD-ROM/dp/1107620694)
 - [Grammarly](https://www.grammarly.com/)
 - Know more on [my blog post](https://willianantunes.blogspot.com/2018/02/caminho-ate-ielts.html)!
