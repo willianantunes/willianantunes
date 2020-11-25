@@ -31,6 +31,7 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 - [StackEdit](https://stackedit.io/)
 - [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
 - [SqlDBM](https://app.sqldbm.com/)
+- [PEV2: Visualize your EXPLAIN plans](https://explain.dalibo.com/)
 - [Postman](https://www.postman.com/)
 
 ## :notebook_with_decorative_cover: To learn English
