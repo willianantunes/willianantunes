@@ -2,14 +2,9 @@
 
 This is my very first version about me here on GitHub!
 
-I'm known as a curious guy! With a wiki, documentation or a guide I can quickly understand a new technology.
+I'm known as a curious guy! With a wiki, documentation, or a guide, I can quickly understand new technologies.
 
-## :mag_right: Where you can find me
-
-[![BlogSpot Badge](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://willianantunes.blogspot.com/)
-[![YouTube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/williantuness)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@willianantunes)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willian.lima.antunes/)
+See my blog where I talk about [technologies and programming](https://www.willianantunes.com/). My old blog one can be consulted [here](https://willianantunes.blogspot.com/).
 
 ## ⚡ Fun facts
 
@@ -33,18 +28,6 @@ I'm known as a curious guy! With a wiki, documentation or a guide I can quickly 
 - [SqlDBM](https://app.sqldbm.com/)
 - [PEV2: Visualize your EXPLAIN plans](https://explain.dalibo.com/)
 - [Postman](https://www.postman.com/)
-
-## :notebook_with_decorative_cover: To learn English
-
-- [Cambly](https://www.cambly.com/)
-- [Cambridge Bookshelf](https://bookshelf.cambridge.org/)
-  - Books I bought (not all of them are in the Cambridge Bookshelf):
-    - [Essential Grammar in Use (ISBN-13: 978-1107480537)](https://www.amazon.com/Essential-Grammar-Answers-Interactive-eBook/dp/1107480531)
-    - [English Grammar in Use (ISBN-13: 978-1107539334)](https://www.amazon.com/English-Grammar-Answers-Interactive-eBook/dp/1107539331)
-    - [Advanced Grammar in Use (ISBN-13: 978-1107539303)](https://www.amazon.com/Advanced-Interactive-Self-Study-Reference-Practice/dp/1107539307)
-    - [The Official Cambridge Guide to IELTS (ISBN-13: 978-1107620698)](https://www.amazon.com/Official-Cambridge-Students-Answers-DVD-ROM/dp/1107620694)
-- [Grammarly](https://www.grammarly.com/)
-- Know more on [my blog post](https://willianantunes.blogspot.com/2018/02/caminho-ate-ielts.html)!
 
 <p>
     <img width="380px" alt="Antunes's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianantunes&hide=html&layout=compact&hide_border=true" />
