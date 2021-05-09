@@ -4,7 +4,7 @@ This is my very first version about me here on GitHub!
 
 I'm known as a curious guy! With a wiki, documentation, or a guide, I can quickly understand new technologies.
 
-See my blog where I talk about [technologies and programming](https://www.willianantunes.com/). My old blog one can be consulted [here](https://willianantunes.blogspot.com/).
+See my blog where I talk about [technologies and programming](https://www.willianantunes.com/). My old blog can be consulted [here](https://willianantunes.blogspot.com/).
 
 ## ⚡ Fun facts
 
