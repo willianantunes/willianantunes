@@ -4,11 +4,6 @@ I'm known as a curious guy! With a wiki, documentation, or a guide, I can quickl
 
 See my blog where I talk about [technologies and programming](https://www.willianantunes.com/). My old blog can be consulted [here](https://willianantunes.blogspot.com/).
 
-<p>
-    <img width="380px" alt="Antunes's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianantunes&hide=html&layout=compact&hide_border=true" />
-    <img width="455px" alt="Antunes's github stats" src="https://github-readme-stats.vercel.app/api?username=willianantunes&theme=default&hide_border=true" />
-</p>
-
 <!--
 Here are some ideas to get you started:
 
